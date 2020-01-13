@@ -16,3 +16,6 @@
 [submodule "data-processing-gwt"]
 	path = data-processing-gwt
 	url = https://github.com/denklewer/data-processing-gwt
+[submodule "oop-cpp-labs"]
+	path = oop-cpp-labs
+	url = https://github.com/denklewer/oop-cpp-labs
