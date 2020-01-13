@@ -4,3 +4,6 @@
 [submodule "data-processing"]
 	path = data-processing
 	url = https://github.com/denklewer/data-processing
+[submodule "Concurrent_labs"]
+	path = Concurrent_labs
+	url = https://github.com/denklewer/Concurrent_labs
