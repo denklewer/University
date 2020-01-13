@@ -1,0 +1,3 @@
+[submodule "STM32F2-Tetris"]
+	path = STM32F2-Tetris
+	url = https://github.com/denklewer/STM32F2-Tetris
