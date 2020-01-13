@@ -1,3 +1,6 @@
 [submodule "STM32F2-Tetris"]
 	path = STM32F2-Tetris
 	url = https://github.com/denklewer/STM32F2-Tetris
+[submodule "data-processing"]
+	path = data-processing
+	url = https://github.com/denklewer/data-processing
