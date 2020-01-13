@@ -10,3 +10,6 @@
 [submodule "Gpu_concurrent_labs"]
 	path = Gpu_concurrent_labs
 	url = https://github.com/denklewer/Gpu_concurrent_labs
+[submodule "ExpData"]
+	path = ExpData
+	url = https://github.com/denklewer/ExpData
