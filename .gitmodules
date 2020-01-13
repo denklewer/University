@@ -13,3 +13,6 @@
 [submodule "ExpData"]
 	path = ExpData
 	url = https://github.com/denklewer/ExpData
+[submodule "data-processing-gwt"]
+	path = data-processing-gwt
+	url = https://github.com/denklewer/data-processing-gwt
