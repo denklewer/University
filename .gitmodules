@@ -7,3 +7,6 @@
 [submodule "Concurrent_labs"]
 	path = Concurrent_labs
 	url = https://github.com/denklewer/Concurrent_labs
+[submodule "Gpu_concurrent_labs"]
+	path = Gpu_concurrent_labs
+	url = https://github.com/denklewer/Gpu_concurrent_labs
